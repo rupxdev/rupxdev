@@ -36,7 +36,7 @@
 - Large Language Models
 - AI + Full Stack Integration
 - System Design
-- 
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupxdev&show_icons=true&locale=en&layout=compact" alt="rupxdev" /></p>
 
 
