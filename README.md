@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupsha Manna</h1>
-<h3 align="center">A AI Engineer from India</h3>
+<h3 align="center">An AI Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupxdev&label=Profile%20views&color=0e75b6&style=flat" alt="rupxdev" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **combining AI with real-world applications**
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **Generative AI**
 
 - 📫 How to reach me **mannarupsha630@gmail.com**
 
